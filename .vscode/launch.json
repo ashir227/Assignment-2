@@ -1,0 +1,32 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "question_1",
+            "cwd": "question_1",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "question_2",
+            "cwd": "question_2",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "question_4",
+            "cwd": "question_4",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "question_5",
+            "cwd": "question_5",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
